@@ -1,49 +1,49 @@
-const { verifyToken, verifyRefresh, errorResponse } = require("@dtwin/config");
+// const { verifyToken, verifyRefresh, errorResponse } = require("@dtwin/config");
 
-const authMiddleware = (req, res, next) => {
-  try {
-    const authHeader = req.headers.authorization;
+// const authMiddleware = (req, res, next) => {
+//   try {
+//     const authHeader = req.headers.authorization;
 
-    if (!authHeader || !authHeader.startsWith("Bearer ")) {
-      return res
-        .status(401)
-        .json({ message: "Unauthorized: No token provided" });
-    }
+//     if (!authHeader || !authHeader.startsWith("Bearer ")) {
+//       return res
+//         .status(401)
+//         .json({ message: "Unauthorized: No token provided" });
+//     }
 
-    const token = authHeader.split(" ")[1]; // Extract token from "Bearer <token>"
-    const decoded = verifyToken(token);
+//     const token = authHeader.split(" ")[1]; // Extract token from "Bearer <token>"
+//     const decoded = verifyToken(token);
 
-    req.user = decoded; // Attach decoded user info to `req`
-    next();
-  } catch (error) {
-    return res.status(401).json({ 
-      message: "Unauthorized: Invalid token", 
-      error: error.message 
-    });
-  }
-};
+//     req.user = decoded; // Attach decoded user info to `req`
+//     next();
+//   } catch (error) {
+//     return res.status(401).json({ 
+//       message: "Unauthorized: Invalid token", 
+//       error: error.message 
+//     });
+//   }
+// };
 
-const refreshMiddleware = (req, res, next) => {
-  try {
-    const authHeader = req.headers.authorization;
+// const refreshMiddleware = (req, res, next) => {
+//   try {
+//     const authHeader = req.headers.authorization;
 
-    if (!authHeader || !authHeader.startsWith("Bearer ")) {
-      return res
-        .status(401)
-        .json({ message: "Unauthorized: No token provided" });
-    }
+//     if (!authHeader || !authHeader.startsWith("Bearer ")) {
+//       return res
+//         .status(401)
+//         .json({ message: "Unauthorized: No token provided" });
+//     }
 
-    const token = authHeader.split(" ")[1]; // Extract token from "Bearer <token>"
-    const decoded = verifyRefresh(token);
+//     const token = authHeader.split(" ")[1]; // Extract token from "Bearer <token>"
+//     const decoded = verifyRefresh(token);
 
-    req.user = decoded; // Attach decoded user info to `req`
-    next();
-  } catch (error) {
-    return res.status(401).json({ 
-      message: "Unauthorized: Invalid token", 
-      error: error.message 
-    });
-  }
-};
+//     req.user = decoded; // Attach decoded user info to `req`
+//     next();
+//   } catch (error) {
+//     return res.status(401).json({ 
+//       message: "Unauthorized: Invalid token", 
+//       error: error.message 
+//     });
+//   }
+// };
 
-module.exports = { authMiddleware, refreshMiddleware }; 
+// module.exports = { authMiddleware, refreshMiddleware }; 

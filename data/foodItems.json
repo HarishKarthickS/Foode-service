@@ -1,0 +1,29 @@
+{
+    "food_name": "Rice, Parboiled",
+    "macronutrients": {
+        "energy_kcal": 130,
+        "protein_g": 2.4,
+        "fat_g": 0.2,
+        "carbohydrates_g": 28.7,
+        "fiber_g": 0.4
+    },
+    "micronutrients": {
+        "calcium_mg": 5,
+        "iron_mg": 0.2,
+        "magnesium_mg": 12,
+        "phosphorus_mg": 43,
+        "potassium_mg": 35,
+        "sodium_mg": 1,
+        "zinc_mg": 0.4,
+        "vitamin_c_mg": 0,
+        "thiamin_mg": 0.07,
+        "riboflavin_mg": 0.02,
+        "niacin_mg": 1.6,
+        "vitamin_b6_mg": 0.09,
+        "folate_ug": 4,
+        "vitamin_a_ug": 0,
+        "vitamin_e_mg": 0.1,
+        "vitamin_d_ug": 0
+    },
+    "image_url": "https://example.com/images/rice_parboiled.jpg"
+}

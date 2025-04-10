@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const { Fooddetails } = require('@dtwin/ml-score-function');
+// const { Fooddetails } = require('@dtwin/ml-score-function');
 
-// const foodItemsPath = path.join(__dirname, '../data/foodItems.json');
+const Fooddetails = path.join(__dirname, '../data/foodItems.json');
 const addedFoodItemsPath = path.join(__dirname, '../data/addedFoodItems.json');
 const ingredientsPath = path.join(__dirname, '../data/ingredients.json');
 

@@ -1,16 +1,15 @@
 const express = require('express');
 const router = express.Router();
 const foodController = require('../controllers/foodController');
-const { authMiddleware } = require('../middlewares/auth.middleware');
 
 // GET all food items
-router.get('/items', authMiddleware, foodController.getAllFoodItems);
+router.get('/items', foodController.getAllFoodItems);
 
 // POST a new food item
-router.post('/items', authMiddleware, foodController.addFoodItem);
+router.post('/items', foodController.addFoodItem);
 
 // GET all ingredients
-router.get('/ingredients', authMiddleware, foodController.getAllIngredients);
+router.get('/ingredients', foodController.getAllIngredients);
 
 // Debug route to check JWT configuration
 router.get('/debug/jwt-config', (req, res) => {
