@@ -1,0 +1,25 @@
+{
+  "name": "food-service",
+  "version": "1.0.0",
+  "description": "Food and ingredients service for Di-Twin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "update-config": "npm install github:Di-Twin/Back-End-Config",
+    "update-ml": "npm install github:Di-Twin/ML-Score_function",
+    "update-all": "npm run update-config && npm run update-ml",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@dtwin/config": "github:Di-Twin/Back-End-Config",
+    "@dtwin/ml-score-function": "github:Di-Twin/ML-Score_function",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

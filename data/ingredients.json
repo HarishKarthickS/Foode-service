@@ -1,0 +1,632 @@
+[
+  {
+      "food_name": "Rice, Parboiled",
+      "ingredients": [
+          "Parboiled rice",
+          "Water"
+      ]
+  },
+  {
+      "food_name": "Wheat Flour, Whole",
+      "ingredients": [
+          "Whole wheat flour",
+          "Water",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Bajra (Pearl Millet)",
+      "ingredients": [
+          "Bajra flour",
+          "Water",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Jowar (Sorghum)",
+      "ingredients": [
+          "Jowar flour",
+          "Water",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Ragi (Finger Millet)",
+      "ingredients": [
+          "Ragi flour",
+          "Water",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Chickpeas (Kabuli Chana)",
+      "ingredients": [
+          "Chickpeas",
+          "Water",
+          "Salt",
+          "Spices (cumin, coriander)"
+      ]
+  },
+  {
+      "food_name": "Green Gram (Moong Dal)",
+      "ingredients": [
+          "Green gram",
+          "Water",
+          "Salt",
+          "Spices (turmeric, cumin)"
+      ]
+  },
+  {
+      "food_name": "Black Gram (Urad Dal)",
+      "ingredients": [
+          "Black gram",
+          "Water",
+          "Salt",
+          "Spices (turmeric, cumin)"
+      ]
+  },
+  {
+      "food_name": "Red Lentils (Masoor Dal)",
+      "ingredients": [
+          "Red lentils",
+          "Water",
+          "Salt",
+          "Spices (turmeric, cumin)"
+      ]
+  },
+  {
+      "food_name": "Kidney Beans (Rajma)",
+      "ingredients": [
+          "Kidney beans",
+          "Water",
+          "Salt",
+          "Spices (cumin, coriander)"
+      ]
+  },
+  {
+      "food_name": "Paneer (Indian Cottage Cheese)",
+      "ingredients": [
+          "Milk",
+          "Lemon juice or vinegar",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Curd (Yogurt)",
+      "ingredients": [
+          "Milk",
+          "Yogurt culture"
+      ]
+  },
+  {
+      "food_name": "Milk (Buffalo)",
+      "ingredients": [
+          "Buffalo milk"
+      ]
+  },
+  {
+      "food_name": "Egg (Hen)",
+      "ingredients": [
+          "Hen eggs"
+      ]
+  },
+  {
+      "food_name": "Chicken (Roasted)",
+      "ingredients": [
+          "Chicken",
+          "Spices (salt, pepper, garlic)",
+          "Oil"
+      ]
+  },
+  {
+      "food_name": "Tomato Rice",
+      "ingredients": [
+          "Rice",
+          "Tomatoes",
+          "Onions",
+          "Spices (cumin, coriander, turmeric)",
+          "Oil"
+      ]
+  },
+  {
+      "food_name": "Rajma Chawal",
+      "ingredients": [
+          "Kidney beans",
+          "Rice",
+          "Onions",
+          "Tomatoes",
+          "Spices (cumin, coriander, garam masala)"
+      ]
+  },
+  {
+      "food_name": "Tamarind Rice",
+      "ingredients": [
+          "Rice",
+          "Tamarind paste",
+          "Peanuts",
+          "Turmeric",
+          "Curry leaves",
+          "Oil"
+      ]
+  },
+  {
+      "food_name": "Curd Rice",
+      "ingredients": [
+          "Rice",
+          "Curd (yogurt)",
+          "Salt",
+          "Coriander leaves"
+      ]
+  },
+  {
+      "food_name": "Rasam with Rice",
+      "ingredients": [
+          "Rice",
+          "Rasam powder",
+          "Tomatoes",
+          "Tamarind",
+          "Salt",
+          "Spices (mustard seeds, curry leaves)"
+      ]
+  },
+  {
+      "food_name": "Aloo Paratha with Curd",
+      "ingredients": [
+          "Whole wheat flour",
+          "Potatoes",
+          "Onions",
+          "Spices (cumin, coriander)",
+          "Salt",
+          "Curd (yogurt)"
+      ]
+  },
+  {
+      "food_name": "Bhindi Masala with Roti",
+      "ingredients": [
+          "Okra (bhindi)",
+          "Onions",
+          "Tomatoes",
+          "Spices (cumin, coriander, garam masala)",
+          "Roti (whole wheat flatbread)"
+      ]
+  },
+  {
+      "food_name": "Chicken Biryani",
+      "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Spices (biryani masala)",
+          "Yogurt"
+      ]
+  },
+  {
+      "food_name": "Mutton Biryani",
+      "ingredients": [
+          "Rice",
+          "Mutton (goat meat)",
+          "Onions",
+          "Tomatoes",
+          "Spices (biryani masala)",
+          "Yogurt"
+      ]
+  },
+  {
+      "food_name": "Chicken Curry",
+      "ingredients": [
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Spices (cumin, coriander, garam masala)",
+          "Coconut milk"
+      ]
+  },
+  {
+      "food_name": "Fried Rice Chicken",
+      "ingredients": [
+          "Rice",
+          "Chicken",
+          "Vegetables (carrots, peas)",
+          "Soy sauce",
+          "Egg",
+          "Garlic"
+      ]
+  },
+  {
+      "food_name": "Mutton Curry",
+      "ingredients": [
+          "Mutton",
+          "Onions",
+          "Tomatoes",
+          "Spices (cumin, coriander, garam masala)",
+          "Yogurt"
+      ]
+  },
+  {
+      "food_name": "Coconut Rice",
+      "ingredients": [
+          "Rice",
+          "Coconut (grated)",
+          "Mustard seeds",
+          "Curry leaves",
+          "Peas",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Dal with Rice",
+      "ingredients": [
+          "Dal (various types)",
+          "Rice",
+          "Onions",
+          "Tomatoes",
+          "Spices (cumin, coriander)",
+          "Garlic",
+          "Ginger"
+      ]
+  },
+  {
+      "food_name": "Fish Curry",
+      "ingredients": [
+          "Fish",
+          "Onions",
+          "Tomatoes",
+          "Coconut milk",
+          "Spices (cumin, coriander, turmeric)",
+          "Curry leaves"
+      ]
+  },
+  {
+      "food_name": "Mint Rice",
+      "ingredients": [
+          "Rice",
+          "Mint leaves",
+          "Green chilies",
+          "Onions",
+          "Cumin seeds",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Veg Biryani",
+      "ingredients": [
+          "Rice",
+          "Mixed vegetables (carrots, peas, beans)",
+          "Onions",
+          "Spices (biryani masala)",
+          "Yogurt"
+      ]
+  },
+  {
+      "food_name": "Ghee Rice",
+      "ingredients": [
+          "Rice",
+          "Ghee (clarified butter)",
+          "Spices (cardamom, cloves)",
+          "Onions"
+      ]
+  },
+  {
+      "food_name": "Raagi Roti",
+      "ingredients": [
+          "Ragi flour",
+          "Water",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Poha",
+      "ingredients": [
+          "Flattened rice",
+          "Onions",
+          "Peas",
+          "Turmeric",
+          "Mustard seeds",
+          "Curry leaves",
+          "Green chilies"
+      ]
+  },
+  {
+      "food_name": "Potato Rice",
+      "ingredients": [
+          "Rice",
+          "Potatoes",
+          "Onions",
+          "Spices",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Carrot Rice",
+      "ingredients": [
+          "Rice",
+          "Carrots",
+          "Onions",
+          "Spices",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Masoor Dal",
+      "ingredients": [
+          "Masoor dal",
+          "Water",
+          "Salt",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Peas Pulao",
+      "ingredients": [
+          "Rice",
+          "Green peas",
+          "Onions",
+          "Spices (cumin, bay leaf)",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Bisi Bele Bath",
+      "ingredients": [
+          "Rice",
+          "Lentils",
+          "Vegetables (carrots, beans)",
+          "Tamarind",
+          "Spices (bisi bele bath powder)"
+      ]
+  },
+  {
+      "food_name": "Bagara Rice",
+      "ingredients": [
+          "Rice",
+          "Onions",
+          "Spices (biryani masala)",
+          "Tomatoes",
+          "Mint leaves"
+      ]
+  },
+  {
+      "food_name": "Gongura Rice",
+      "ingredients": [
+          "Rice",
+          "Gongura leaves",
+          "Spices",
+          "Oil"
+      ]
+  },
+  {
+      "food_name": "Curry Leaves Rice",
+      "ingredients": [
+          "Rice",
+          "Curry leaves",
+          "Mustard seeds",
+          "Spices",
+          "Oil"
+      ]
+  },
+  {
+      "food_name": "Brinjal Rice",
+      "ingredients": [
+          "Rice",
+          "Brinjal (eggplant)",
+          "Onions",
+          "Spices",
+          "Salt"
+      ]
+  },
+  {
+      "food_name": "Karela Fry",
+      "ingredients": [
+          "Bitter gourd (karela)",
+          "Onions",
+          "Spices",
+          "Oil"
+      ]
+  },
+  {
+      "food_name": "Drumstick Curry",
+      "ingredients": [
+          "Drumsticks",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Snake Gourd Curry",
+      "ingredients": [
+          "Snake gourd",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Ridge Gourd Curry",
+      "ingredients": [
+          "Ridge gourd",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Pumpkin Curry",
+      "ingredients": [
+          "Pumpkin",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Lauki Curry",
+      "ingredients": [
+          "Bottle gourd (lauki)",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Tinda Masala",
+      "ingredients": [
+          "Tinda (apple gourd)",
+          "Onions",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Aloo Baingan",
+      "ingredients": [
+          "Potatoes",
+          "Brinjal (eggplant)",
+          "Onions",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Cabbage Curry",
+      "ingredients": [
+          "Cabbage",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Turnip Curry",
+      "ingredients": [
+          "Turnip",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Arbi Fry",
+      "ingredients": [
+          "Arbi (taro root)",
+          "Spices (cumin, chili powder)",
+          "Oil"
+      ]
+  },
+  {
+      "food_name": "Bottle Gourd with Chana Dal",
+      "ingredients": [
+          "Bottle gourd (lauki)",
+          "Chana dal",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Soya Chunk Curry",
+      "ingredients": [
+          "Soya chunks",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Egg Bhurji",
+      "ingredients": [
+          "Eggs",
+          "Onions",
+          "Tomatoes",
+          "Spices",
+          "Green chilies"
+      ]
+  },
+  {
+      "food_name": "Anda Curry",
+      "ingredients": [
+          "Eggs",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Prawn Curry",
+      "ingredients": [
+          "Prawns",
+          "Onions",
+          "Tomatoes",
+          "Coconut milk",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Crab Curry",
+      "ingredients": [
+          "Crabs",
+          "Onions",
+          "Tomatoes",
+          "Coconut milk",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Fish Fry",
+      "ingredients": [
+          "Fish",
+          "Spices (turmeric, chili powder)",
+          "Oil"
+      ]
+  },
+  {
+      "food_name": "Surmai Fry",
+      "ingredients": [
+          "Surmai (kingfish)",
+          "Spices (turmeric, chili powder)",
+          "Oil"
+      ]
+  },
+  {
+      "food_name": "Egg Masala",
+      "ingredients": [
+          "Eggs",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Chicken Masala",
+      "ingredients": [
+          "Chicken",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Mutton Masala",
+      "ingredients": [
+          "Mutton",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Paneer Bhurji",
+      "ingredients": [
+          "Paneer (cottage cheese)",
+          "Onions",
+          "Tomatoes",
+          "Spices"
+      ]
+  },
+  {
+      "food_name": "Medu Vada",
+      "ingredients": [
+          "Urad dal",
+          "Water",
+          "Salt",
+          "Spices (black pepper, cumin)"
+      ]
+  }
+]

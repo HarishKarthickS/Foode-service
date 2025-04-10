@@ -1,0 +1,31 @@
+[
+  {
+    "food_name": "Brown Rice, Cooked",
+    "macronutrients": {
+      "energy_kcal": 123,
+      "protein_g": 2.6,
+      "fat_g": 1,
+      "carbohydrates_g": 25.6,
+      "fiber_g": 1.6
+    },
+    "micronutrients": {
+      "calcium_mg": 10,
+      "iron_mg": 0.6,
+      "magnesium_mg": 44,
+      "phosphorus_mg": 83,
+      "potassium_mg": 79,
+      "sodium_mg": 4,
+      "zinc_mg": 0.6,
+      "vitamin_c_mg": 0,
+      "thiamin_mg": 0.18,
+      "riboflavin_mg": 0.02,
+      "niacin_mg": 2.6,
+      "vitamin_b6_mg": 0.29,
+      "folate_ug": 9,
+      "vitamin_a_ug": 0,
+      "vitamin_e_mg": 0.11,
+      "vitamin_d_ug": 0
+    },
+    "image_url": "https://example.com/images/brown_rice_cooked.jpg"
+  }
+]
